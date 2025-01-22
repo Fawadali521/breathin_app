@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "543260405159",
+    "project_id": "breathin-684d9",
+    "storage_bucket": "breathin-684d9.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:543260405159:android:fa9e48e27edaabb8f55a82",
+        "android_client_info": {
+          "package_name": "com.duseca.breathin"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAY5AwoIL8Q7aMIgvLDhxbhDt6ZO7Dp7IE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
